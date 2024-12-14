@@ -10,10 +10,11 @@ import net.minecraft.item.ToolMaterials;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.Rarity;
 
 public class ImmersiveIncantationsItems {
 	public static final Item WAND = registerItem("wand", new Item(new FabricItemSettings()));
-	public static final Item ATHAME = registerItem("athame", new AthameItem(ToolMaterials.GOLD,1,-2, new FabricItemSettings()));
+	public static final Item ATHAME = registerItem("athame", new AthameItem(ToolMaterials.GOLD,1,-2, new FabricItemSettings().rarity(Rarity.UNCOMMON)));
 	public static final Item BOLINE = registerItem("boline", new BolineItem(ToolMaterials.IRON, 2, -2, new FabricItemSettings()));
 
 	private static void addItemsToToolsItemGroup(FabricItemGroupEntries entries) {
