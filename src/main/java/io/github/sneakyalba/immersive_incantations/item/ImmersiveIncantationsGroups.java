@@ -15,6 +15,7 @@ public class ImmersiveIncantationsGroups {
 		FabricItemGroup.builder().name(Text.translatable("itemgroup.immersive_incantations"))
 			.icon(()-> new ItemStack(ImmersiveIncantationsItems.ATHAME)).entries((context, entries) -> {
 				entries.addItem(ImmersiveIncantationsItems.ATHAME);
+				entries.addItem(ImmersiveIncantationsItems.BOLINE);
 				entries.addItem(ImmersiveIncantationsItems.WAND);
 			}).build());
 
