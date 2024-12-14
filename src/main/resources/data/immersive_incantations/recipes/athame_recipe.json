@@ -2,12 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "pattern": [
-    " S",
-    "F "
+    "  S",
+    "GS ",
+    "NG "
     ],
   "key": {
     "S": { "item": "minecraft:iron_ingot" },
-    "F": { "item": "minecraft:flint" }
+    "N": { "item": "minecraft:netherite_ingot" },
+    "G": { "item": "minecraft:gold_nugget" }
   },
   "result": {
     "item": "immersive_incantations:athame",
