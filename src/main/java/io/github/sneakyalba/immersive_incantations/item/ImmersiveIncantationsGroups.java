@@ -13,7 +13,8 @@ public class ImmersiveIncantationsGroups {
 	public static final ItemGroup IMMERSIVE_INCANTATIONS_GROUP = Registry.register(Registries.ITEM_GROUP,
 		new Identifier(ImmersiveIncantations.MOD_ID, "immersive_incantations"),
 		FabricItemGroup.builder().name(Text.translatable("itemgroup.immersive_incantations"))
-			.icon(()-> new ItemStack(ImmersiveIncantationsItems.WAND)).entries((context, entries) -> {
+			.icon(()-> new ItemStack(ImmersiveIncantationsItems.ATHAME)).entries((context, entries) -> {
+				entries.addItem(ImmersiveIncantationsItems.ATHAME);
 				entries.addItem(ImmersiveIncantationsItems.WAND);
 			}).build());
 
