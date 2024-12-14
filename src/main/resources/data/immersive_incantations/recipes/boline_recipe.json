@@ -3,12 +3,13 @@
   "category": "equipment",
   "pattern": [
     "II",
-    " I",
-    "B "
+    "GI",
+    "BG"
     ],
   "key": {
     "I": { "item": "minecraft:iron_ingot" },
-    "B": { "item": "minecraft:bone" }
+    "B": { "item": "minecraft:bone" },
+    "G": { "item": "minecraft:gold_nugget" }
   },
   "result": {
     "item": "immersive_incantations:boline",
