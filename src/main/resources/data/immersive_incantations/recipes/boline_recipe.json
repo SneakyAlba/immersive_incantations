@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "I ",
+    " I",
+    "B "
+    ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "Q": { "item": "minecraft:bone" }
+  },
+  "result": {
+    "item": "immersive_incantations:boline",
+    "count": 1
+  }
+}
