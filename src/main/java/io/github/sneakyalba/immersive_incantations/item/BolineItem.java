@@ -25,38 +25,35 @@ public class BolineItem extends SwordItem {
 	@Override
 	public boolean postMine(ItemStack stack, World world, BlockState state, BlockPos pos, LivingEntity miner) {
 		if (!world.isClient && !state.isIn(BlockTags.FIRE) && state.getHardness(world, pos) != 0.0F) {
-			stack.damage(2, miner, e -> e.sendEquipmentBreakStatus(EquipmentSlot.MAINHAND));
+			stack.damage(1, miner, e -> e.sendEquipmentBreakStatus(EquipmentSlot.MAINHAND));
 		}
 
-		return !state.isIn(BlockTags.LEAVES)
-			&& !state.isOf(Blocks.COBWEB)
-			&& !state.isOf(Blocks.GRASS)
-			&& !state.isOf(Blocks.FERN)
-			&& !state.isOf(Blocks.DEAD_BUSH)
-			&& !state.isOf(Blocks.HANGING_ROOTS)
-			&& !state.isOf(Blocks.VINE)
-			&& !state.isOf(Blocks.TRIPWIRE)
-			&& !state.isIn(BlockTags.WOOL)
-			? super.postMine(stack, world, state, pos, miner)
-			: true;
-	}
-
-	@Override
-	public boolean isSuitableFor(BlockState state) {
-		return state.isOf(Blocks.COBWEB) || state.isOf(Blocks.REDSTONE_WIRE) || state.isOf(Blocks.TRIPWIRE);
+		return state.isIn(BlockTags.LEAVES)
+			|| state.isIn(BlockTags.SWORD_EFFICIENT)
+			|| state.isIn(BlockTags.HOE_MINEABLE)
+			|| state.isOf(Blocks.COBWEB)
+			|| state.isOf(Blocks.GRASS)
+			|| state.isOf(Blocks.FERN)
+			|| state.isOf(Blocks.DEAD_BUSH)
+			|| state.isOf(Blocks.HANGING_ROOTS)
+			|| state.isOf(Blocks.VINE)
+			|| super.postMine(stack, world, state, pos, miner);
 	}
 
 	@Override
 	public float getMiningSpeedMultiplier(ItemStack stack, BlockState state) {
 		if (state.isOf(Blocks.COBWEB) || state.isIn(BlockTags.LEAVES)) {
 			return 15.0F;
-		} else if (state.isIn(BlockTags.WOOL)) {
-			return 5.0F;
-		} else if (state.isIn(BlockTags.SWORD_EFFICIENT)) {
+		} else if (state.isIn(BlockTags.SWORD_EFFICIENT) || state.isIn(BlockTags.HOE_MINEABLE)) {
 			return 1.5F;
 		} else {
 			return !state.isOf(Blocks.VINE) && !state.isOf(Blocks.GLOW_LICHEN) ? super.getMiningSpeedMultiplier(stack, state) : 2.0F;
 		}
+	}
+
+	@Override
+	public boolean isSuitableFor(BlockState state) {
+		return state.isOf(Blocks.COBWEB) || state.isIn(BlockTags.HOE_MINEABLE);
 	}
 
 	@Override
