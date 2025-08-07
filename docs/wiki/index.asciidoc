@@ -51,11 +51,11 @@ able to better support other mods, custom servers, and datapacks. Anything that
 can't be handled by the options presented by the vanilla game can instead be
 handled through the traditional mod config files.
 
-As for the theme and aesthetics part of the mod, I'm going all-in on real-world
-folklore and occultism. I'm lucky enough to live in part of the world which
-lends access to a lot of those materials to pull from as inspiration. Don't go
-looking for any flashy spell effects or D&D-style casting here, it's a lot of
-rites, rituals, invocations and evocations, and other similar kinds of spellwork.
+As for the theme and aesthetics, I'm going all-in on real-world folklore and
+occultism. I'm lucky enough to live in part of the world which lends access to
+a lot of those materials to pull from as inspiration. Don't go looking for any
+flashy spell visuals or D&D-style casting here, it's a lot of rites, rituals,
+invocations and evocations, and other similar kinds of spellwork.
 
 Though it should be noted as keeping with the vanilla-like feel I won't make any
 direct adaptation of anything I find in my research. Everything will be 100%
@@ -75,4 +75,4 @@ should form into something more structured as per demands.
 
 == Not yet implementented
 
-xref::transformations/vampire[The Curse of Vampyrism]
+link:wiki/transformations/vampire.html[The Curse of Vampyrism]
