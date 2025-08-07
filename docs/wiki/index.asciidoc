@@ -1,4 +1,78 @@
 = Immersive Incantations: The Official Wiki
 SneakyAlba
-v1.0
+Pre-Alpha Design Doc
 :toc:
+
+== Welcome to _Immserive Incantations_!
+
+This is an ambitious new project of mine which has been brewing for quite some
+time now, and marks my first few steps back into the world of modding and the
+dreaded Java programming language.
+
+For now this is very much a personal passion project of mine, and unless I
+discover that I'm actually rather charasmatic, I expect it to remain a solo
+endevour for the foreseeable future.
+
+Updates will be slow, erratic, and at times confusing; art will likely be ...
+scuffed, at best; and my vision and scope on the project will change.
+Constantly.
+
+But with that said, I reckon once I've got the ball rolling I'll find it easy to
+take that momentum far.
+
+=== What are your plans for this mod?
+
+That's a very easy and very difficult question to answer. I have some very clear
+visions for what I think I want from a mod like this, but those don't translate
+into features or content. Part of the fun will be discovering what crystalizes
+from those ideas.
+
+I know that isn't exactly helpful for knowing what to expect, so I'll try to
+cast an image in your mind instead:
+
+This mod lifts a lot of its inspirations from Emoniph's _Witchery_ mod from back
+in 1.7.10, and will likely serve as a competitor to _Bewitchment_, _Enchanted:_
+_Witchcraft_, _Hexerei_, and its many other other spiritual successors in modern
+game versions.
+
+I don't plan to make this mod play the same as those described, but if you've
+played any of them you'll know how they _feel_ and what sort of features to
+expect.
+
+I'm also a huge fan of vanilla-like mods with unique crafting mechanics. Think
+the _Let's Do_ series on Fabric or the _Farmer's Delight_ ecosystem on Forge. If
+there's a way I can let you craft something like you've never done before, then
+I will. I'd like the traditional Minecraft crafting system to be used only where
+it makes sense, but yet have the mod feel as much like it fits with the vanilla
+game as possible.
+
+I'd also like the mod to be super customisable, making it as data driven as I'm
+able to better support other mods, custom servers, and datapacks. Anything that
+can't be handled by the options presented by the vanilla game can instead be
+handled through the traditional mod config files.
+
+As for the theme and aesthetics part of the mod, I'm going all-in on real-world
+folklore and occultism. I'm lucky enough to live in part of the world which
+lends access to a lot of those materials to pull from as inspiration. Don't go
+looking for any flashy spell effects or D&D-style casting here, it's a lot of
+rites, rituals, invocations and evocations, and other similar kinds of spellwork.
+
+Though it should be noted as keeping with the vanilla-like feel I won't make any
+direct adaptation of anything I find in my research. Everything will be 100%
+Minecraft-ified before it's added, just like how Mojang does it.
+
+=== How can I contribute?
+
+First off; thanks for wanting to lend a hand! <3
+
+If you're looking to help out, create an issue, discussion, or pull request
+(whichever suits best) and request a new feature, make code suggestions, bug
+fixes, or whatever else comes to mind.
+
+This process might change as the project ages and if I eventually do coerce
+someone to work on it with me, so it's going to be very vibe-y at the start and
+should form into something more structured as per demands.
+
+== Not yet implementented
+
+xref::transformations/vampire.asciidoc[The Curse of Vampyrism]
