@@ -75,4 +75,4 @@ should form into something more structured as per demands.
 
 == Not yet implementented
 
-xref::transformations/vampire.asciidoc[The Curse of Vampyrism]
+xref::transformations/vampire[The Curse of Vampyrism]
