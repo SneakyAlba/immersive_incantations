@@ -1,4 +1,4 @@
-= The Curse of Vampyrism
+= The Curse of Appetite
 SneakyAlba
 Pre-Alpha Design Doc
 :icons: font
@@ -17,52 +17,61 @@ What, then, should the soul corrupt and the body preserve?
 In the hands of the magician: Something both great and _terrible_ ...
 ____
 
-== Un-life Under Vampyrism
+== Hunger, both spiritual and carnal, bound in flesh
 
-Vampyrism is a _Curse_ which affects humanoid entities, transforming them into
-an insatiable, obsessive-compulsive incarnation of _appetite_.
+_Appetite_ is a curse targeting humanoid entities, corrupting their souls and
+trapping their spirits, transforming them into insatiable, obsessive-compulsive
+incarnations of _craving_ called *vampyres*.
 
-Those with the curse are afflicted as follows:
+Those who become a vampyre find that food cannot restore them, and they must
+instead sustain themselves by other means.
 
-.Pros:
-- They become functionally *immortal*
+.*_Spoilers inside!_*
+[%collapsible]
+====
+.Positive:
+- Vampyres are functionally *immortal*
 - They can no longer drown nor suffocate
 - When injured, their health passively recovers up to their current hunger level
 
 .Neutral:
-- They are now considered *undead*
-- They can be targeted by additional rites, rituals, and spells; and may now be
+- They are now considered *undead* and at times *infernal*
+- They can be targeted by additional rites, rituals, and spells; and might be
 affected by others differently
 
-.Cons:
-- They must feed on the living to sate their hunger
+.Negative:
+- They must feed on the living to restore hunger
 - They become *_Vulnerable_* when exposed to sunlight or garlic; when submerged
-in water; or while caught on fire
-- They cannot cross lines of salt nor bodies of water
+in water; or when set on fire
+- They can't lines of salt or bodies of water
 - They are immune to *_Fire Resistance_*
 
 [NOTE]
-====
+=====
 *_Vulnerable_* _entities receive more physical damage. When applied alongside
 an equivalent level of_ *_Resistance_*, _their effects cancel out._
 
 _Immortality is not invulnerability; and thus vampyres can still be slain using
 magic, by powerful Infernals and bosses, and are mortal while_ *_Vulnerable_*.
+=====
+
 ====
 
-== Encountering the Vampyre
+== Meeting the vampyre
 
 Vampyres can be found roaming any biome where villages might be settled, but
-have only been sighted under new moons whence they are furthest from sunlight.
+have only been sighted under new moons where they are furthest from sunlight.
+Their curse demands that they sate themselves on the living, and thus are always
+hostile on sight.
 
 Despite their immortality, the life expectancy of a vampyre is fleeting. While
 they're certainly more dangerous than the average monster, few survive long
-enough to take charge over their new state of being.
+enough to adapt to their new state of being.
 
 Legends amidst some villages, however, speak of terrible dark magicians who have
 drank from the sleeping and stolen away children for generations ...
 
-== Sources of Vampyrism
+== Becoming cursed
 
 NOTE: This section is a stub, and each method listed deserves a section with a
 full-bodied description and steps.
@@ -72,3 +81,7 @@ full-bodied description and steps.
 - Make compact with an Infernal
 - Enter the servitude of a higher power
 - Be subjected to an especially powerful bewitchment
+
+== Breaking the curse
+
+NOTE: To-do

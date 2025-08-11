@@ -76,3 +76,4 @@ should form into something more structured as per demands.
 == Not yet implementented
 
 link:wiki/transformations/vampire.html[The Curse of Vampyrism]
+link:technical/transformations/vampire.html[(Technical) How Vampyres Work]
