@@ -1,8 +1,8 @@
 = Immersive Incantations
 SneakyAlba
 Pre-Alpha Design Doc
-:toc:
 
+image::immersive_incantations_logo.png[]
 == Welcome to _Immserive Incantations_!
 
 This is an ambitious new project of mine which has been brewing for quite some

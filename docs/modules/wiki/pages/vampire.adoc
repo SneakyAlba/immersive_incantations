@@ -1,12 +1,9 @@
 = The Curse of Appetite
 SneakyAlba
 Pre-Alpha Design Doc
-:icons: font
 
-****
 WARNING: This page represents an unimplemented system. It is a declaration of
 intent and not reflective of any current, future, or final implementation.
-****
 
 [quote, Unknown, Observations of an Immortal]
 ____

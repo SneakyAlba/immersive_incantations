@@ -1,7 +1,6 @@
 = Immersive Incantations API: How do Vampyres work?
 SneakyAlba
 Pre-Alpha Design Docs
-:toc: left
 
 == Features
 

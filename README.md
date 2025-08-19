@@ -1,4 +1,4 @@
-![Immersive Incantations Logo](Immersive%20Incantations%20Logo.png)
+![Immersive Incantations Logo](./docs/modules/ROOT/images/immersive_incantations_logo.png)
 # 👋 Welcome to _Immersive Incantations_!
 This is a new and somewhat ambitious project of mine which has been brewing for some time, but marks my first steps back into the world of video game modding and the Java programming language.
 
