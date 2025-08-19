@@ -1,5 +1,7 @@
-.Player Guidebook/Wiki
-* xref:wiki:vampire.adoc[The Curse of Appetite]
+.xref:wiki:index.adoc[Player Wiki]
+* xref:technical:afflictions.adoc[Afflictions]
+** xref:wiki:vampire.adoc[The Curse of Appetite]
 
-.Developer Docs
-* xref:technical:vampire.adoc[How Vampyres Work]
+.xref:technical:index.adoc[Developer Docs]
+* xref:technical:afflictions.adoc[Afflictions]
+** xref:technical:vampire.adoc[How Vampyres Work]

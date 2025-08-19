@@ -1,9 +1,8 @@
-= Immersive Incantations
+= Welcome to _Immserive Incantations_!
 SneakyAlba
 Pre-Alpha Design Doc
 
 image::immersive_incantations_logo.png[]
-== Welcome to _Immserive Incantations_!
 
 This is an ambitious new project of mine which has been brewing for quite some
 time now, and marks my first few steps back into the world of modding and the

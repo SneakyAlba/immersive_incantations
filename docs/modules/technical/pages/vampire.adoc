@@ -1,4 +1,4 @@
-= Immersive Incantations API: How do Vampyres work?
+= How do Vampyres work?
 SneakyAlba
 Pre-Alpha Design Docs
 
