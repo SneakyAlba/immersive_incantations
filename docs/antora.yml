@@ -1,3 +1,5 @@
 name: immersive_incantations
 title: Immersive Incantations
 version: ~
+nav:
+- modules/ROOT/nav.adoc
