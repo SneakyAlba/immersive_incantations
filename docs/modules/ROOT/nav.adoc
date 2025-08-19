@@ -1,5 +1,5 @@
-.The Official Wiki
+.Player Guidebook/Wiki
 * xref:wiki:vampire.adoc[The Curse of Appetite]
 
-.The Technical Docs
+.Developer Docs
 * xref:technical:vampire.adoc[How Vampyres Work]
