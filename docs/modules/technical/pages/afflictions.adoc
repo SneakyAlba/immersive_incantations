@@ -1,0 +1,16 @@
+= Afflictions: What are they?
+
+NOTE: This page is a stub, it will become more fleshed out as implementation
+details emerge.
+
+Afflictions are conditions that aim to fundamentally alter _what_ a player is,
+e.g. xref:wiki:vampire.adoc[vampirism].
+
+My thoughts currently are to create some kind of interface for any shared traits
+across differing afflictions, but that plan will break down depending on how
+radically different from one another they wind up being.
+
+The only affliction I have a pseudocode implementation for at the moment are the
+aforementioned xref:vampire.adoc[vampires], but I think the alterations made to
+hunger, time of day and sky visibility checks, and shapeshifting mechanics
+should probably be shared between both where possible.

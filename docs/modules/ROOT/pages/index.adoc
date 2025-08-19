@@ -19,7 +19,7 @@ Constantly.
 But with that said, I reckon once I've got the ball rolling I'll find it easy to
 take that momentum far.
 
-=== What are your plans for this mod?
+== What are your plans for this mod?
 
 That's a very easy and very difficult question to answer. I have some very clear
 visions for what I think I want from a mod like this, but those don't translate
@@ -60,7 +60,7 @@ Though it should be noted as keeping with the vanilla-like feel I won't make any
 direct adaptation of anything I find in my research. Everything will be 100%
 Minecraft-ified before it's added, just like how Mojang does it.
 
-=== How can I contribute?
+== How can I contribute?
 
 First off; thanks for wanting to lend a hand! <3
 

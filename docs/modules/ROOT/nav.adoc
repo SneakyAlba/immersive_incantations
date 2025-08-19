@@ -1,5 +1,5 @@
 .xref:wiki:index.adoc[Player Wiki]
-* xref:technical:afflictions.adoc[Afflictions]
+* xref:wiki:afflictions.adoc[Afflictions]
 ** xref:wiki:vampire.adoc[The Curse of Appetite]
 
 .xref:technical:index.adoc[Developer Docs]
